@@ -8,3 +8,13 @@ E:\Games\RageServer\server-files\dotnet\resources\lrp\lrp\obj\Debug\netcoreapp2.
 E:\Games\RageServer\server-files\dotnet\resources\lrp\lrp\obj\Debug\netcoreapp2.0\lrp.dll
 E:\Games\RageServer\server-files\dotnet\resources\lrp\lrp\obj\Debug\netcoreapp2.0\lrp.pdb
 E:\Games\RageServer\server-files\dotnet\resources\lrp\lrp\bin\Debug\netcoreapp2.0\meta.xml
+E:\Games\lrp\liberty-roleplay\server-files\dotnet\resources\lrp\lrp\bin\Debug\netcoreapp2.0\meta.xml
+E:\Games\lrp\liberty-roleplay\server-files\dotnet\resources\lrp\lrp\bin\Debug\netcoreapp2.0\lrp.deps.json
+E:\Games\lrp\liberty-roleplay\server-files\dotnet\resources\lrp\lrp\bin\Debug\netcoreapp2.0\lrp.dll
+E:\Games\lrp\liberty-roleplay\server-files\dotnet\resources\lrp\lrp\bin\Debug\netcoreapp2.0\lrp.pdb
+E:\Games\lrp\liberty-roleplay\server-files\dotnet\resources\lrp\lrp\obj\Debug\netcoreapp2.0\lrp.csprojAssemblyReference.cache
+E:\Games\lrp\liberty-roleplay\server-files\dotnet\resources\lrp\lrp\obj\Debug\netcoreapp2.0\lrp.csproj.CoreCompileInputs.cache
+E:\Games\lrp\liberty-roleplay\server-files\dotnet\resources\lrp\lrp\obj\Debug\netcoreapp2.0\lrp.AssemblyInfoInputs.cache
+E:\Games\lrp\liberty-roleplay\server-files\dotnet\resources\lrp\lrp\obj\Debug\netcoreapp2.0\lrp.AssemblyInfo.cs
+E:\Games\lrp\liberty-roleplay\server-files\dotnet\resources\lrp\lrp\obj\Debug\netcoreapp2.0\lrp.dll
+E:\Games\lrp\liberty-roleplay\server-files\dotnet\resources\lrp\lrp\obj\Debug\netcoreapp2.0\lrp.pdb

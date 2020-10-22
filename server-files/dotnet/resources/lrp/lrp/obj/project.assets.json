@@ -4975,11 +4975,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Games\\RageServer\\server-files\\dotnet\\resources\\lrp\\lrp\\lrp.csproj",
+      "projectUniqueName": "E:\\Games\\lrp\\liberty-roleplay\\server-files\\dotnet\\resources\\lrp\\lrp\\lrp.csproj",
       "projectName": "lrp",
-      "projectPath": "E:\\Games\\RageServer\\server-files\\dotnet\\resources\\lrp\\lrp\\lrp.csproj",
+      "projectPath": "E:\\Games\\lrp\\liberty-roleplay\\server-files\\dotnet\\resources\\lrp\\lrp\\lrp.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "E:\\Games\\RageServer\\server-files\\dotnet\\resources\\lrp\\lrp\\obj\\",
+      "outputPath": "E:\\Games\\lrp\\liberty-roleplay\\server-files\\dotnet\\resources\\lrp\\lrp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
