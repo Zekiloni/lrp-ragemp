@@ -28,7 +28,7 @@ namespace lrp.database
             this.Password = "1232345";
             this.Database = "lcrp";
 
-            //my change. 1
+            //my change. 2 
         }
 
         [ServerEvent(Event.ResourceStart)]
