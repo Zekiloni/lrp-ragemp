@@ -27,8 +27,6 @@ namespace lrp.database
             this.Username = "root";
             this.Password = "1232345";
             this.Database = "lcrp";
-
-            //my change. 3
         }
 
         [ServerEvent(Event.ResourceStart)]
