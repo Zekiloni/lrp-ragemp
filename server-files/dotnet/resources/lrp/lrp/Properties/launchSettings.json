@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "lrp": {
+      "commandName": "Executable",
+      "executablePath": "E:\\Games\\RageServer\\server-files\\ragemp-server.exe",
+      "workingDirectory": "E:\\Games\\RageServer\\server-files"
+    }
+  }
+}

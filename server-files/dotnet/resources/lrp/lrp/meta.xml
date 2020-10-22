@@ -1,0 +1,4 @@
+﻿<meta>
+  <info name="LRP" description="LRP Main Framework" />
+  <script src="lrp\bin\Debug\netcoreapp2.0\lrp.dll" />
+</meta>

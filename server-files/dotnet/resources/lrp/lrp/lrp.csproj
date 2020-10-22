@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="meta.xml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="meta.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="gtanetwork.api" Version="0.3.7" />
+    <PackageReference Include="MySql.Data" Version="8.0.22" />
+  </ItemGroup>
+
+</Project>

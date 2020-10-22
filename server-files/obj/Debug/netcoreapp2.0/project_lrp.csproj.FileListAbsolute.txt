@@ -1,0 +1,4 @@
+E:\Games\RageServer\server-files\project_lrp\obj\Debug\netcoreapp2.0\project_lrp.csprojAssemblyReference.cache
+E:\Games\RageServer\server-files\project_lrp\obj\Debug\netcoreapp2.0\project_lrp.csproj.CoreCompileInputs.cache
+E:\Games\RageServer\server-files\project_lrp\obj\Debug\netcoreapp2.0\project_lrp.AssemblyInfoInputs.cache
+E:\Games\RageServer\server-files\project_lrp\obj\Debug\netcoreapp2.0\project_lrp.AssemblyInfo.cs
